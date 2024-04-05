@@ -1,4 +1,4 @@
-def imageName="marqsek/Frontend"
+def imageName="marqsek/frontend"
 def dockerRegistry=""
 def registryCredentials="dockerhub"
 
